@@ -1,2 +1,2 @@
 # My-Works
-My all works in this repo.
+Bu depoda bazı uygulamalarım bulunmakta.
